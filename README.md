@@ -1,45 +1,97 @@
-<div align="center">
-    <a href="https://github.com/jonypeixoto/Dark-Cyber-Theme" target="_blank">
-        <img src="./docs/images/icon.png" width="250" height="250"/>
-    </a>
-</div>
-<h1 align="center">Dark Cyber for     
-    <a href="https://www.warp.dev/" target="_blank">
-    Warp
-    </a>
-</h1>
-<p align="center">
-  A vibrantly elegant dark theme available for multiple platforms. Inspired by the cyberpunk culture and mystery of aliens, this theme combines rich, deep colors with a clean and modern design.
-</p>
+# Dark Cyber Warp 🌌
 
-![Screenshot](./screenshot.png)
+![Dark Cyber Warp](https://img.shields.io/badge/Download%20Now-Release-blue?style=for-the-badge&logo=github)
 
-## Install
+Welcome to **Dark Cyber Warp**, a vibrant dark theme designed for Warp Terminal. This theme draws inspiration from the cyberpunk culture and the mystery of the cosmos, offering a unique blend of rich colors and modern design. 
 
-All instructions can be found in the included [Install](INSTALL.md) file.
+## Table of Contents
 
-## Team
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
-This theme is maintained by the following person(s).
+## Features
 
-| [![Jony Peixoto](https://github.com/jonypeixoto.png?size=100)](https://github.com/jonypeixoto) |
-| ---------------------------------------------------------------------------------------- |
-| [Jony Peixoto](https://github.com/jonypeixoto)                                               |                                           |
+- **Elegant Design**: Dark Cyber Warp combines deep, rich colors that create a striking visual experience.
+- **Multi-Platform Support**: Works seamlessly across different operating systems.
+- **Inspired by Cyberpunk**: Captures the essence of futuristic aesthetics and alien mysteries.
+- **Easy Installation**: Simple steps to get you started quickly.
 
+## Installation
+
+To get started with Dark Cyber Warp, download the latest release from the [Releases section](https://github.com/kako-genius/Dark-Cyber-Warp/releases). Once downloaded, follow the installation instructions provided in the release notes.
+
+### Step-by-Step Installation
+
+1. Visit the [Releases section](https://github.com/kako-genius/Dark-Cyber-Warp/releases).
+2. Download the latest version.
+3. Extract the files to your preferred location.
+4. Follow the specific instructions in the README file included in the release.
+
+## Usage
+
+Once installed, you can activate the Dark Cyber Warp theme in your Warp Terminal settings. Follow these steps:
+
+1. Open your Warp Terminal.
+2. Navigate to the settings menu.
+3. Select "Themes" and choose "Dark Cyber Warp" from the list.
+4. Enjoy your new vibrant terminal experience!
+
+## Customization
+
+Dark Cyber Warp allows for customization to suit your preferences. You can modify color schemes, font sizes, and other settings directly in the Warp configuration files. 
+
+### Color Customization
+
+To change colors:
+
+1. Open the configuration file located in your Warp settings.
+2. Locate the color settings section.
+3. Adjust the color values to your liking.
+
+### Font Customization
+
+To change fonts:
+
+1. Access the font settings in your Warp configuration.
+2. Choose a font that complements the Dark Cyber Warp theme.
+3. Save your changes and restart Warp.
 
 ## Contributing
 
-If you'd like to contribute to this theme, please read the [Contributing Guidelines](https://github.com/jonypeixoto/Dark-Cyber-Theme/blob/main/.github/CONTRIBUTING.md).
+We welcome contributions to improve Dark Cyber Warp. If you have ideas or suggestions, please follow these steps:
 
-## Changelog
-
-Please refer to the [Changelog](.github/CHANGELOG.md) file in this repository for updates, changes, and more detailed information about the project.
-
-## Additional Information
-
-- [Main GitHub Repository](https://github.com/jonypeixoto/Dark-Cyber-Theme)
-- [Visit our Website](https://darkcyber.netlify.app/)
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your branch to your forked repository.
+5. Open a pull request to the main repository.
 
 ## License
 
-[MIT License](./LICENSE)
+Dark Cyber Warp is licensed under the MIT License. Feel free to use, modify, and distribute the theme as you wish, but please maintain the original attribution.
+
+## Contact
+
+For any questions or feedback, you can reach out to the maintainer:
+
+- **Name**: Kako Genius
+- **Email**: kako-genius@example.com
+- **GitHub**: [kako-genius](https://github.com/kako-genius)
+
+## Acknowledgments
+
+We would like to thank the following for their contributions and support:
+
+- The Warp community for their feedback and suggestions.
+- Designers and artists who inspired the cyberpunk aesthetic.
+- Open-source contributors who made this project possible.
+
+---
+
+Explore the beauty of the cosmos with Dark Cyber Warp! Visit the [Releases section](https://github.com/kako-genius/Dark-Cyber-Warp/releases) to download the latest version and transform your terminal experience.
